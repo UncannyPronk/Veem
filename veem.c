@@ -101,6 +101,8 @@ int main() {
             case 6:
                 commands();
                 break;
+            case 7:
+                break;
             default:
                 printf("\nInvalid command. Try again.\n\n");
                 break;
